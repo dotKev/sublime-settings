@@ -1,0 +1,23 @@
+// GitGutter Settings - User
+{
+  "theme": "Bars.gitgutter-theme",
+  "show_in_minimap": 1,
+  "protected_regions": [
+    "bookmarks",
+    "lint-annotations",
+    "lint-outlines-illegal",
+    "lint-outlines-violation",
+    "lint-outlines-warning",
+    "lint-underline-illegal",
+    "lint-underline-violation",
+    "lint-underline-warning",
+    "lsp_error",
+    "lsp_info",
+    "lsp_warning",
+    "sublime_linter.protected_regions",
+    "sublimelinter-error-gutter-marks",
+    "sublimelinter-error-marks",
+    "sublimelinter-warning-gutter-marks",
+    "sublimelinter-warning-marks"
+  ]
+}

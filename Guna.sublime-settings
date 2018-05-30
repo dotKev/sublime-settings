@@ -1,0 +1,10 @@
+// Specify your own settings. You don't need to restart
+{
+  "scroll_bars.color": "#0095B3",
+  "sidebar_font.face": "Roboto",
+  "sidebar_font.size": 13,
+
+  "clock.color": "#00a681",
+  "icon.color.selected": "#00a681",
+  "tab_font.color.hover": "#00a681"
+}

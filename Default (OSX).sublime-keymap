@@ -1,0 +1,4 @@
+[
+  { "keys": ["super+shift+o"], "command": "angularjs_find" },
+  { "keys": ["super+alt+f"], "command": "show_panel", "args": {"panel": "replace", "reverse": false} },
+]
