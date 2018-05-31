@@ -1,2 +1,5 @@
 oscrypto-ca-bundle.crt
 Package Control.cache
+/Package Control.last-run
+*.cache
+/AngularJS.cache
