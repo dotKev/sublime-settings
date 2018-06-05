@@ -3,3 +3,5 @@ Package Control.cache
 /Package Control.last-run
 *.cache
 /AngularJS.cache
+/Package Control.merged-ca-bundle
+/oscrypto-ca-bundle.crt
