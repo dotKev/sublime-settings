@@ -8,7 +8,7 @@
 	"default_keybindings": true,
 	"experimental":
 	{
-		"asynchronosly_update_color_scheme": false
+		"asynchronosly_update_color_scheme": true
 	},
 	"file_extensions":
 	[
@@ -107,7 +107,7 @@
 			{
 				"color_scheme":
 				{
-					"enabled": true,
+					"enabled": false,
 					"highlight_style": "text"
 				},
 				"gutter_icons":
@@ -153,8 +153,8 @@
 			{
 				"color_scheme":
 				{
-					"enabled": true,
-					"highlight_style": "filled"
+					"enabled": false,
+					"highlight_style": "underlined_solid"
 				},
 				"gutter_icons":
 				{
@@ -163,12 +163,12 @@
 				},
 				"phantoms":
 				{
-					"enabled": true,
+					"enabled": false,
 					"length": 2,
 					"style": "right"
 				}
 			},
-			"enabled": true
+			"enabled": false
 		}
 	}
 }

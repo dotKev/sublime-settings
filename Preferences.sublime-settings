@@ -55,7 +55,7 @@
 		".idea",
 		"bower_components"
 	],
-	"font_size": 10,
+	"font_size": 11,
 	"ignore_threshold": true,
 	"ignored_packages":
 	[

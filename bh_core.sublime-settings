@@ -1,5 +1,12 @@
 {
   "content_highlight_bar": true,
   "align_content_highlight_bar": true,
-  "ignore_threshold": true
+  "ignore_threshold": true,
+  "bracket_styles": {
+    "curly": {
+        "icon": "curly_bracket",
+        "color": "region.bluish"
+        // "style": "underline"
+    }
+  }
 }

@@ -6,8 +6,6 @@
 	"installed_packages":
 	[
 		"1337 Color Scheme",
-		"A File Icon",
-		"Acme Color Scheme",
 		"AngularJS",
 		"AppendComma",
 		"AppendSemiColon",
@@ -15,6 +13,7 @@
 		"Babel",
 		"BlameHighlighter",
 		"BracketHighlighter",
+		"Color Highlighter",
 		"CommentBanner",
 		"CSS Format",
 		"DataConverter",
@@ -32,9 +31,7 @@
 		"HTMLEntity Snippets",
 		"JavaScriptNext - ES6 Syntax",
 		"JSX",
-		"Markdown Extended",
 		"MarkdownEditing",
-		"MarkdownPreview",
 		"Material Theme",
 		"Origami",
 		"Package Control",
