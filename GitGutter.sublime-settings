@@ -19,5 +19,6 @@
     "sublimelinter-error-marks",
     "sublimelinter-warning-gutter-marks",
     "sublimelinter-warning-marks"
-  ]
+  ],
+  "show_line_annotation": false
 }
