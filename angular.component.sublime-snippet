@@ -1,0 +1,24 @@
+<snippet>
+  <content><![CDATA[
+angular.module('${1:component.location}.${2:component-name}', [])
+.component('sw${3:ComponentNameCamelCase}', {
+  templateUrl: '${4:modules/file/path}/${2}/${2}.html',
+  controller: ${3}Ctrl,${5:
+  bindings: \{\},}
+});
+
+${3}Ctrl.\$inject = [];
+function ${3}Ctrl() {
+  const ctrl = this;
+  ${0}
+  ctrl.\$onInit = function() {
+
+  };
+}
+
+]]></content>
+  <tabTrigger>angular.component</tabTrigger>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+</snippet>
