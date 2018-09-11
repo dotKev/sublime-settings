@@ -55,7 +55,12 @@
 		".idea",
 		"bower_components"
 	],
-	"font_size": 11,
+	"font_face": "Fira Code",
+	"font_options":
+	[
+		"subpixel_antialias"
+	],
+	"font_size": 12,
 	"ignore_threshold": true,
 	"ignored_packages":
 	[
