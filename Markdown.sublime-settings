@@ -1,10 +1,9 @@
 {
-	"color_scheme": "Packages/MarkdownEditing/MarkdownEditor-Dark.tmTheme",
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
 	"draw_centered": false,
 	"extensions":
 	[
-		"mdown",
-		"txt"
+		"mdown"
 	],
 	"highlight_line": true
 }
