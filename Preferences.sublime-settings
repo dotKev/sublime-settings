@@ -60,12 +60,13 @@
 	[
 		"subpixel_antialias"
 	],
-	"font_size": 12,
+	"font_size": 13,
+	"gni_003": false,
+	"highlight_line": true,
 	"ignore_threshold": true,
 	"ignored_packages":
 	[
 		"Javascript",
-		"Markdown",
 		"Vintage"
 	],
 	"indent_guide_options":
