@@ -51,6 +51,8 @@
 		"SublimeLinter-eslint",
 		"Sync View Scroll",
 		"TypeScript Syntax",
+		"Unicode Escape",
+		"View In Browser",
 		"Vue Syntax Highlight",
 		"ZSH"
 	]
