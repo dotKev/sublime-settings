@@ -21,7 +21,7 @@
 		"/Users/keshleman/dev/frontend/bower_components/**"
 	],
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
 	"ensure_newline_at_eof_on_save": true,
 	"file_exclude_patterns":
 	[
@@ -60,8 +60,7 @@
 	[
 		"subpixel_antialias"
 	],
-	"font_size": 13,
-	"gni_003": false,
+	"font_size": 12,
 	"highlight_line": true,
 	"ignore_threshold": true,
 	"ignored_packages":
@@ -109,7 +108,7 @@
 	"show_offscreen_bracket_popup": true,
 	"smart_indent": true,
 	"tab_size": 2,
-	"theme": "Material-Theme.sublime-theme",
+	"theme": "Material-Theme-Darker.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true
 }
