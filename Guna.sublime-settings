@@ -1,10 +1,14 @@
 // Specify your own settings. You don't need to restart
 {
   "scroll_bars.color": "#0095B3",
-  "sidebar_font.face": "Roboto",
-  "sidebar_font.size": 13,
-
+  "sidebar_font.size": 12,
+  "sidebar_widget": "clock",
   "clock.color": "#00a681",
   "icon.color.selected": "#00a681",
-  "tab_font.color.hover": "#00a681"
+  "tab_font.color.hover": "#00a681",
+  "status_bar_font.color": "#35A3D0"
+  // "tab_font.face": "SF Pro Text Regular",
+  // "label_font.face": "SF Pro Text Regular",
+  // "sidebar_font.face": "SF Compact Display Regular",
+  // "status_bar_font.face": "SF Compact Text Light"
 }

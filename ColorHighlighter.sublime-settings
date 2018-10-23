@@ -8,7 +8,7 @@
 	"default_keybindings": true,
 	"experimental":
 	{
-		"asynchronosly_update_color_scheme": true
+		"asynchronosly_update_color_scheme": false
 	},
 	"file_extensions":
 	[
@@ -153,12 +153,12 @@
 			{
 				"color_scheme":
 				{
-					"enabled": false,
+					"enabled": true,
 					"highlight_style": "underlined_solid"
 				},
 				"gutter_icons":
 				{
-					"enabled": false,
+					"enabled": true,
 					"icon_style": "circle"
 				},
 				"phantoms":
@@ -168,7 +168,7 @@
 					"style": "right"
 				}
 			},
-			"enabled": false
+			"enabled": true
 		}
 	}
 }

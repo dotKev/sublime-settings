@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"1337 Color Scheme",
+		"A File Icon",
 		"AngularJS",
 		"AppendComma",
 		"AppendSemiColon",
@@ -26,7 +27,6 @@
 		"Git blame",
 		"GitGutter",
 		"GitHub Flavored Markdown Preview",
-		"Guna",
 		"Handlebars",
 		"HTML-CSS-JS Prettify",
 		"HTMLEntity Snippets",
